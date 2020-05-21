@@ -1,4 +1,4 @@
-console.log('olá joão');
+console.log('olá Douglas');
 
 var title = document.querySelector('h1');
 
